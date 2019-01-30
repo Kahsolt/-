@@ -1,0 +1,20 @@
+# vscode project (if any)
+.vscode
+
+# draft is secret :(
+draft
+
+# sigil a score to distribute
+dist
+SIGIL.cmd
+
+# audio tracks
+*.mid
+*.wav
+*.mp3
+*.mp4
+
+# album pictures (if any)
+*.jpg
+*.jpeg
+*.png
